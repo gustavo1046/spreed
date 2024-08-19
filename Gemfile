@@ -29,6 +29,8 @@ gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
 gem "redis", ">= 4.0.1", group: :production
 
+# Use to connect to RabbitMQ
+gem 'bunny', '~> 2.18'
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
