@@ -83,5 +83,5 @@ gem "spree_auth_devise"
 gem "spree_gateway"
 gem "spree_i18n"
 
-# only needed for MacOS and Ruby 3.0
-gem 'sassc', github: 'sass/sassc-ruby', branch: 'master'
+# # only needed for MacOS and Ruby 3.0
+# gem 'sassc', github: 'sass/sassc-ruby', branch: 'master'
